@@ -1,0 +1,9 @@
+.playerClick {
+  font-size: 3vw;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.playerClick:hover {
+  transform: scale(1.1);
+}

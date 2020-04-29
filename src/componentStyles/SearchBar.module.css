@@ -1,0 +1,20 @@
+.searchBar {
+  border-radius: 500px;
+  border: 0.5vw;
+  height: 7vh;
+  width: 66vw;
+  box-shadow: none;
+  border-style: solid;
+  border-color: #1829d1;
+  text-indent: 10px;
+  transition: transform 0.6s ease-in-out;
+  margin: 1vw;
+}
+
+.searchBar:hover {
+  transform: scale(1.1);
+}
+
+.searchBar:focus {
+  transform: scale(1.1);
+}

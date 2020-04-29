@@ -1,0 +1,14 @@
+.container {
+  /* background-color: red; */
+  padding: 2vh;
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  align-items: center;
+  margin-top: 0vh;
+  font-size: 3vw;
+}
+
+li {
+  list-style: none;
+}
