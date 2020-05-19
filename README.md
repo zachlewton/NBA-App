@@ -2,3 +2,5 @@
 
 
 search player by name. only works with current players 
+
+Uses the BallDontLie.io api
